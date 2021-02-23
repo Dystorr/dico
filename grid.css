@@ -7,7 +7,7 @@ height:50px;
 background:#3b548f;
 }
 p{
-border-bottom-style: solid;
+border-top-style: solid;
 border-width: 1px;
 border-bottom-color: black;
 background-color: #d8dced;
@@ -15,5 +15,9 @@ background-color: #d8dced;
 h1{
 font-style:italic;
 }
+div{
+border-width: 0px;
+}
+
 
 
